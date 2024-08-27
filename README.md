@@ -1,2 +1,1 @@
-# new-batch-devops
-i am very interested to learn to this course.
+MY DEVOPS 14 BATCH GITHUB ACCOUNT
